@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd1
+http://185.246.210.56:2200/EX/bein1FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd2
+http://185.246.210.56:2200/EX/bein2FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd3
+http://185.246.210.56:2200/EX/bein3FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd4
+http://185.246.210.56:2200/EX/bein4FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd5
+http://185.246.210.56:2200/EX/bein5FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd6
+http://185.246.210.56:2200/EX/bein6FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd7
+http://185.246.210.56:2200/EX/bein7FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd8
+http://185.246.210.56:2200/EX/bein8FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd9
+http://185.246.210.56:2200/EX/bein9FHD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 group-title="BeinSports" tvg-logo="https://i.imgur.com/BXnUONl.png",BeinSports hd10
+http://185.246.210.56:2200/EX/bein10FHD-ar/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1,SportHD
+http://sarhantv.xyz:25461/live/sarhan1/123129/25.m3u8
+#EXTINF:-1,BTV 2
+http://sarhantv.xyz:25461/live/sarhan1/123129/26.m3u8
+#EXTINF:-1,BTV 1
+http://sarhantv.xyz:25461/live/sarhan1/123129/27.m3u8
+#EXTINF:-1,Türkmenistan Sport
+http://sarhantv.xyz:25461/live/sarhan1/123129/28.m3u8
+#EXTINF:-1,varzesh4
+http://sarhantv.xyz:25461/live/sarhan1/123129/29.m3u8
+#EXTINF:-1,varzesh3
+http://sarhantv.xyz:25461/live/sarhan1/123129/30.m3u8
+#EXTINF:-1,varzesh2
+http://sarhantv.xyz:25461/live/sarhan1/123129/31.m3u8
+#EXTINF:-1,varzesh1
+http://sarhantv.xyz:25461/live/sarhan1/123129/32.m3u8
+#EXTINF:-1,best sport 
+http://sarhantv.xyz:25461/live/sarhan1/123129/52.m3u8
+#EXTINF:-1,Sony Ten 1
+http://sarhantv.xyz:25461/live/sarhan1/123129/53.m3u8
+#EXTINF:-1,beIN Sport Local 1 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/34.m3u8
+#EXTINF:-1,beIN Sport Local 2HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/35.m3u8
+#EXTINF:-1,beIN Sport Local 3 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/36.m3u8
+#EXTINF:-1,beIN Sport Local 4 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/37.m3u8
+#EXTINF:-1,beIN Sport Local 5 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/38.m3u8
+#EXTINF:-1,beIN Sport Local 6 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/39.m3u8
+#EXTINF:-1,beIN Sport Local 7 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/40.m3u8
+#EXTINF:-1,beIN Sport Local 8 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/41.m3u8
+#EXTINF:-1,beIN Sport Local 9 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/42.m3u8
+#EXTINF:-1,beIN Sport Loacl 10 HD
+http://sarhantv.xyz:25461/live/sarhan1/123129/43.m3u8
+#EXTINF:-1,beIN Sport Local 1 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/44.m3u8
+#EXTINF:-1,beIN Sport Local 2 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/45.m3u8
+#EXTINF:-1,beIN Sport Local 3 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/46.m3u8
+#EXTINF:-1,beIN Sport Loacl 4 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/47.m3u8
+#EXTINF:-1,beIN Sport Local 5 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/48.m3u8
+#EXTINF:-1,beIN Sport Local 6 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/49.m3u8
+#EXTINF:-1,beIN Sport Local 7 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/50.m3u8
+#EXTINF:-1,beIN Sport Local 8 LOW
+http://sarhantv.xyz:25461/live/sarhan1/123129/51.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL2",PK SPORTS HD
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL2",Star Sports 1
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL2",Star Sports 2
+http://185.93.2.153:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL2",Star Sports 3
+http://89.187.169.200:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL2",Star Sports Select 1
+http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="FOOTBALL2",Star Sports Select 2
+http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",PremieLeague2
+http://ip2121.com:8081/at1/ENG2/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",PremieLeague3
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",BEIN SPORT 1
+http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
+#EXTINF:-1 group-title="Nashya Sport" tvg-logo="https://i.imgur.com/BXnUONl.png",BEIN SPORT 2
+http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+
+
+#EXTINF:-1 ,BeIN Sport 1
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28732?play_token=3EUkeY2c4P&token=QhVcUhcJRggXXFFeBFUFUQJVU1JTV1FaAQJQUwNQB1YNDlJQAVFUA1ZGGURBEkJRAFtpWgVEXlFdUwZTSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlJZCBsWQw0FRggXVgVSA0QcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAAxDGhRQDhMKFxcdF1tEKyZDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVAJVBBYc
+#EXTINF:-1 ,BeIN Sport 2
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28731?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 ,BeIN Sport max 1
+http://62.210.124.97:8080/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/33284?play_token=PwUNKCeQsd&token=QhVcUhcJRggXUFFVC1cJUFBUUlBQUgVQXF0GA1dSA1ULBFYKUlcAClNGGURBEkJRAFtpWgVEXlBWVg1VSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1pWCxsWQw0FRggXVQBUC1MSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBgBZFBoRAgkRDREWTENcQCslGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABfBg1WFEs=
+#EXTINF:-1 ,BeIN Sport max 2
+http://62.210.124.97:8080/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/33285?play_token=CvjFZD0QJg&token=QhVcUhcJRggXAAQHAVJVBQRVVAsEXlQCVAUCUQMDU1QIUgxWBgBUAQBGGURBEkJRAFtpWgVEXlBWVg1USkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1tSABsWQw0FRggXVwRUAUQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPCEcKXBhDVVlGDxIWGkdeFygiQE5DXE9AVgoSDV1bRg9ERhUSGENfRWwTAxcXFwFUDAMQQFsbBxYfRgwFSmoHWghcA1NACFlYQENcRlJHSBcMCQwLFVZFa0MNBUYIF1cEVwNETQ==
+#EXTINF:-1 ,FOX SPORTS 1
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28772?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 ,FOX SPORTS 2
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28771?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 ,FOX SPORTS 3
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28770?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 ,mnsc SPORTS
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/6745?play_token=Aeaut7C19B&token=QhVcUhcJRggXBlQEUAcIDAUOAgNWUlVUB1YGBF8HU1FfVgwGV1ldBwZGGURBEkJRAFtpWgVEXlVSUABNRBcRBEtoXVdGW0YGAFEDXgtEHBYVX1tWQ1xVVlxTA1VUVVNQFRVEWgBDXhAGVgFTBEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAARDGhRQDhMKFxcdF1tEKyZDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwJRAARDSw==
+
+#EXTINF:-1 ,FOX SPORTS 1
+http://185.59.222.189:25461/snUoBh8hFc/j7AzIdQzoo/110256?play_token=VkNaOlbXBo&token=GRdRWUpbQV9BBgBUBlVQBVFUWwNTUQUABAcBBgRRD1dRDVwNDQFQUlIRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQoIX1VRV0EYQ0wPX1IRWwJWXQEDUA0EWg0VGklaB0dZEQBVVFNATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSUVQGQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSW1MNQ0U=
+#EXTINF:-1 ,FOX SPORTS 2
+http://185.59.222.189:25461/snUoBh8hFc/j7AzIdQzoo/110257?play_token=VkNaOlbXBo&token=GRdRWUpbQV9BBgBUBlVQBVFUWwNTUQUABAcBBgRRD1dRDVwNDQFQUlIRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQoIX1VRV0EYQ0wPX1IRWwJWXQEDUA0EWg0VGklaB0dZEQBVVFNATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSUVQGQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSW1MNQ0U=
+#EXTINF:-1 ,FOX SPORTS 3
+http://185.59.222.189:25461/snUoBh8hFc/j7AzIdQzoo/110258?play_token=VkNaOlbXBo&token=GRdRWUpbQV9BBgBUBlVQBVFUWwNTUQUABAcBBgRRD1dRDVwNDQFQUlIRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQoIX1VRV0EYQ0wPX1IRWwJWXQEDUA0EWg0VGklaB0dZEQBVVFNATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSUVQGQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSW1MNQ0U=
+#EXTINF:-1 ,bein sport
+http://185.59.222.189:25461/snUoBh8hFc/j7AzIdQzoo/110259?play_token=VkNaOlbXBo&token=GRdRWUpbQV9BBgBUBlVQBVFUWwNTUQUABAcBBgRRD1dRDVwNDQFQUlIRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQoIX1VRV0EYQ0wPX1IRWwJWXQEDUA0EWg0VGklaB0dZEQBVVFNATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSUVQGQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSW1MNQ0U=
+#EXTINF:-1 ,bein sport max
+http://185.59.222.189:25461/snUoBh8hFc/j7AzIdQzoo/110260?play_token=VkNaOlbXBo&token=GRdRWUpbQV9BBgBUBlVQBVFUWwNTUQUABAcBBgRRD1dRDVwNDQFQUlIRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQoIX1VRV0EYQ0wPX1IRWwJWXQEDUA0EWg0VGklaB0dZEQBVVFNATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSUVQGQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSW1MNQ0U=
+
+#EXTINF:-1 ,Astro SuperSport 1
+http://iptvtree.net:8080/13354/27c12697/157559
+#EXTINF:-1 ,Astro SuperSport 2
+http://iptvtree.net:8080/13354/27c12697/157556
+#EXTINF:-1 ,Astro SuperSport 3
+http://iptvtree.net:8080/13354/27c12697/157557
+#EXTINF:-1 ,Astro SuperSport 4
+http://iptvtree.net:8080/13354/27c12697/157558
+#EXTINF:-1 ,ASTRO ARENA HD
+http://iptvtree.net:8080/13354/27c12697/157485
+
+#EXTINF:-1 ,RMC 1
+http://flusonic-4.platinum-tv.com:80/sfr_sport_1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,RMC 2
+http://flusonic-4.platinum-tv.com:80/sfr_sport_2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,RMC 3
+http://flusonic-4.platinum-tv.com:80/sfr_sport_3/tracks-v1a1/mono.m3u8?token=test
